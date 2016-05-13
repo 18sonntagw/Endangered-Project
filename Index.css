@@ -1,25 +1,17 @@
 body {
 text-align: center;
-background: rgb (255,255,180);
+background: rgb (255,255,150);
 background-repeat: repeat-y, repeat;
 outline: 15px groove #FF3B3B;
 resize: both;
 overflow: auto;
 min-width: 50px;
 min-height: 50px;
--webkit-transition: all 0.75s ease-in-out;
--moz-transition: all 0.75s ease-in-out;
--ms-transition: all 0.75s ease-in-out;
--o-transition: all 0.75s ease-in-out;
-transition: all 0.75s ease-in-out;
+
 }
 h1{
 font-family:"Courier New", Courier, monospace;
--webkit-transition: all 0.75s ease-in-out;
--moz-transition: all 0.75s ease-in-out;
--ms-transition: all 0.75s ease-in-out;
--o-transition: all 0.75s ease-in-out;
-transition: all 0.75s ease-in-out;
+
 }
 h2{
 font-family:"Courier New", Courier, monospace;
