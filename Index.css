@@ -1,9 +1,7 @@
 body {
 text-align: center;
-background: ##fffbb7;
-background-image: url("zenbg-1.png"), url("zenbg-2.png");
+background: rgb (255,255,180);
 background-repeat: repeat-y, repeat;
-}
 outline: 15px groove #FF3B3B;
 resize: both;
 overflow: auto;
