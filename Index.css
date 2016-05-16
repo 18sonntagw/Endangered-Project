@@ -1,7 +1,6 @@
 body {
 text-align: center;
 background: rgb (255,255,150);
-background-repeat: repeat-y, repeat;
 outline: 15px groove #FF3B3B;
 resize: both;
 overflow: auto;
@@ -27,28 +26,22 @@ font-family:"Courier New", Courier, monospace;
 ul{
 text-align: left;
 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
--webkit-border-radius: 20px;
 border-radius: 20px;
 background-color: rgb(255,255,255);
 }
 ol{
 text-align: left;
 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
--webkit-border-radius: 20px;
 border-radius: 20px;
 background-color: rgb(255,255,255);
 }
 p{
 font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
--webkit-border-radius: 20px;
 border-radius: 20px;
 background-color: rgb(255,255,255);
 width: 100%;
-resize: both;
 overflow: auto;
 min-width: 50px; /*suggest a min-width &amp; min-height*/
 min-height: 50px;
 }
-h5{
-font-family: "Comic Sans MS", cursive, sans-serif;
-}
+
